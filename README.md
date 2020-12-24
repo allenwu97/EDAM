@@ -1,5 +1,5 @@
 # EDAM
-The code and pretrain models of EDAM(Embedded Discriminative Attention Mechanism for Weakly SupervisedSemantic Segmentation)
+The code and pretrain models of EDAM(Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation)
 
 ## Env
 We train our model with Python 3.5, PyTorch 1.1.0 and 4 Tesla V100 GPUs with 16 GB memory. Other Python modules can be installed by running
