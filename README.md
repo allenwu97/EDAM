@@ -55,7 +55,7 @@ We also provide the final pseudo labels for segmentation network training. [[Bai
         <th>Train set</th>
         <th>Val set</th>
         <th>Crf?</th>
-        <th>Post-Processing?</th>
+        <th>Saliency?</th>
         <th>Mean IoU</th>
     </tr>
     <tr>
@@ -95,6 +95,6 @@ We also provide the final pseudo labels for segmentation network training. [[Bai
     <tr>
         <td>&#10003;</td>
         <td>-</td>
-        <td>70.96</td>
+        <td><strong>70.96</td>
     </tr>
 </table>
