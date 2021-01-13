@@ -1,4 +1,4 @@
-# EDAM
+# EDAM-WSSS
 The code and pretrain models of EDAM(Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation)
 
 ## Env
@@ -59,9 +59,13 @@ We also provide the final pseudo labels for segmentation network training. [[Bai
         <th>Mean IoU</th>
     </tr>
     <tr>
-        <td>EDAM</td>
-        <td>TrainAug</td>
-        <td>Train</td>
+        <td rowspan="3">EDAM</td>
+        <td rowspan="3">
+            <i>trainaug</i>
+        </td>
+        <td rowspan="3">
+            <i>train</i>
+        </td>
         <td>-</td>
         <td>-</td>
         <td>52.83</td>
@@ -77,9 +81,13 @@ We also provide the final pseudo labels for segmentation network training. [[Bai
         <td><strong>68.11</td>
     </tr>
     <tr>
-        <td>Deeplab-v2</td>
-        <td>TrainAug(pseudo-labels)</td>
-        <td>Val</td>
+        <td rowspan="3">DeepLab-v2</td>
+        <td rowspan="3">
+            <i>trainaug</i>
+        </td>
+        <td rowspan="3">
+            <i>val</i>
+        </td>
         <td>-</td>
         <td>-</td>
         <td>69.66</td>
