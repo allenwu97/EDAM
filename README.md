@@ -1,4 +1,4 @@
-# EDAM-WSSS
+# Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation(EDAM-WSSS)
 The code and pretrain models of EDAM(Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation)
 
 ## Env
