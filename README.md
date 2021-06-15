@@ -1,6 +1,6 @@
-# Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation(EDAM-WSSS)
+# Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation(EDAM-WSSS) CVPR2021
 The code and pretrain models of EDAM(Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation)
-
+Our papaer [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Embedded_Discriminative_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2021_paper.pdf)
 ## Env
 We train our model with Python 3.5, PyTorch 1.1.0 and 4 Tesla V100 GPUs with 16 GB memory. Other Python modules can be installed by running
  ```
