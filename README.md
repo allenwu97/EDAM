@@ -98,3 +98,15 @@ We also provide the final pseudo labels for segmentation network training. [[Bai
         <td><strong>70.96</td>
     </tr>
 </table>
+
+## Citation
+If this code is useful to you, consider using the following citation:
+```
+@InProceedings{Wu_2021_CVPR,
+    author    = {Wu, Tong and Huang, Junshi and Gao, Guangyu and Wei, Xiaoming and Wei, Xiaolin and Luo, Xuan and Liu, Chi Harold},
+    title     = {Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {16765-16774}
+}
