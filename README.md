@@ -46,7 +46,7 @@ python3 colorful.py --img_path [Path of Pseudo Labels] —out_path [Path of Colo
  
 ## Segmentation Network
 We use our pseudo labels fully-supervised train a [Deeplab-v2 Network](https://github.com/kazuto1011/deeplab-pytorch)  
-We also provide the final pseudo labels for segmentation network training. [[BaiduYun]](https://pan.baidu.com/s/1ovEYet0JTiW9wj8UuP7-0g) 9aij
+We also provide the final pseudo labels for segmentation network training. [[Google Drive]](https://drive.google.com/file/d/1UkCIYI8Ink2S8l7aOue0kKQJMgkoCbOg/view?usp=sharing)[[BaiduYun]](https://pan.baidu.com/s/1ovEYet0JTiW9wj8UuP7-0g) 9aij
 
 ## Results
 <table>
